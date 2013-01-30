@@ -1,33 +1,14 @@
 *********************************README*********************************
 
-                      KinectSDK / Unity3D Interface
-		                  v.5.0
+Works with Unity 4.0!
 
-                             Andrew DeVine
-                 University of Central Florida ISUE Lab
-                    http://www.eecs.ucf.edu/isuelab
+The Microsoft Kinect SDK v.1.6 is required for this dll:
 
-************************************************************************
-
-Thanks for downloading!
-
-The Microsoft Kinect SDK v.1.0 is required for this dll:
-
-http://www.microsoft.com/en-us/kinectforwindows/download
-
-
-New Features with this Release:
-
-    1) The Depth and RGB streams are now available for your enjoyment!
-    
-    2) Intellisense summaries have been added for public members
-
-    3) Now distributed as a Unity package for easy setup
+http://www.microsoft.com/en-us/kinectforwindows/develop/
 
 WARNING: Using both the RGB and Depth feeds will cause a significant
 drop in performance. Please be sure your system meets the requirements
 found in the website above to maximize your experience with the SDK.
-
 
 ************************************************************************
                                  SETUP
@@ -97,8 +78,4 @@ as this may damage the motor (A provision to prevent this already exists,
 do not remove this code). The camera is capable of -27 deg. to 27 deg.
 
 
-************************************************************************
-March 2012
-
-Questions? email: adevine@knights.ucf.edu
 ************************************************************************
